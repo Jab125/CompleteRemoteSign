@@ -1,0 +1,3 @@
+[submodule "RemoteSign"]
+	path = RemoteSign
+	url = https://github.com/modmuss50/RemoteSign.git
